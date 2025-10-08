@@ -30,6 +30,7 @@ def parse_timestamp(ts: str) -> datetime:
     ts = ts.strip()
     
     # Case 1: Unix epoch seconds (integer or float)
+    # example: 1696150354.5
     if re.fullmatch(r"\d{10}(\.\d+)?", ts):  # 10-digit seconds, optionally with fraction
         try:
             return datetime.fromtimestamp(float(ts), tz=timezone.utc)
@@ -37,6 +38,7 @@ def parse_timestamp(ts: str) -> datetime:
             raise ValueError(f"Invalid epoch timestamp {ts!r}: {e}") from e
 
     # Case 2: ISO 8601 with UTC 'Z' suffix
+    # example: 2025-10-01T09:12:34Z
     if ts.endswith("Z"):
         # Try full ISO form e.g. 2025-10-01T09:12:34Z
         iso_candidate = ts[:-1]  # remove Z
@@ -53,6 +55,7 @@ def parse_timestamp(ts: str) -> datetime:
 
     # Case 3: ISO 8601 with timezone offset (e.g. +02:00)
     # datetime.fromisoformat handles this directly
+    # example 2025-10-01T11:12:34+02:00
     try:
         dt = datetime.fromisoformat(ts)
         if dt.tzinfo is None:
