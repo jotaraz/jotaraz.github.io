@@ -27,11 +27,11 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 
 ## Short CV
 
-| 2025 | ML4Good - AI Safety Bootcamp|
-| 2023-2025 | **M.Sc. Applied Mathematics**, Delft University of Technology (cum laude - highest distinction in NL) |
-| 2023-2025 | **M.Sc. Scientific Computing**, Technische Universität Berlin |
+| 2025 | ML4Good - AI Safety Bootcamp |
+| 2023-2025 | **M.Sc. Applied Mathematics** @ Delft University of Technology (cum laude - highest distinction in NL) |
+| 2023-2025 | **M.Sc. Scientific Computing** @ Technische Universität Berlin |
 | 2024 | Student Research Assistant: Computational Chemistry @ German Aerospace Center (DLR) & Helmholtz Institute Ulm |
 | 2023-2024 | Student Research Assistant: Numerical Mathematics @ Weierstrass Institute for Applied Analysis and Stochastics |
 | 2021-2023 | Teaching Assistant: Physics Lab @ Technische Universität Berlin |
-| 2019-2023 | **B.Sc. Physics**, Technische Universität Berlin |
+| 2019-2023 | **B.Sc. Physics** @ Technische Universität Berlin |
 
