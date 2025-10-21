@@ -3,9 +3,7 @@ layout: default
 title: Hello there!
 ---
 
-# I'm Johannes :)
-
-welcome to my website!  
+I'm **Johannes Taraz**, welcome to my website!
 I recently graduated from my master degrees in Applied Mathematics and Scientific Computing at TU Delft and TU Berlin. 
 In my [master thesis](https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb) I worked on machine learning for numerical simulations. 
 Now, I'm exploring the broader field of AI, specifically safe and robust AI.
