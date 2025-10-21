@@ -13,7 +13,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 ## At the moment I'm working on:
 - **DeepONets:** turning my master thesis into a paper!
 - **Batteries:** I'm writing a paper from my time at [DLR/HIU](https://hiu-batteries.de/forschung/forschungsgruppen/electrochemical-multiphysics-modeling/)  
-- **Debate between LLMs:** can you create a large enough incentive for an LLM to win a debate even if it conflicts with it other goals? [try it out! (with your OpenAI API key)](https://github.com/jotaraz/DebateWithMisalignedLLMs-FightingCollusion)
+- **Debate between LLMs:** can you create a large enough incentive for an LLM to win a debate even if it conflicts with its other goals? [try it out! (with your OpenAI API key)](https://github.com/jotaraz/DebateWithMisalignedLLMs-FightingCollusion)
 
 ---
 
