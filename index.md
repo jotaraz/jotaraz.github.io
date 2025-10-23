@@ -32,5 +32,5 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 | 2024 | Student Research Assistant: Computational Chemistry @ German Aerospace Center (DLR) & Helmholtz Institute Ulm |
 | 2023-2024 | Student Research Assistant: Numerical Mathematics @ Weierstrass Institute for Applied Analysis and Stochastics |
 | 2021-2023 | Teaching Assistant: Physics Lab @ Technische Universität Berlin |
-| 2019-2023 | **B.Sc. Physics** @ Technische Universität Berlin [click for thesis]([https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb](https://github.com/jotaraz/jotaraz.github.io/blob/main/Bachelorarbeit.pdf)) |
+| 2019-2023 | **B.Sc. Physics** @ Technische Universität Berlin [click for thesis](https://github.com/jotaraz/jotaraz.github.io/blob/main/Bachelorarbeit.pdf) |
 
