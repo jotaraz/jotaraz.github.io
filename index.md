@@ -19,7 +19,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 ---
 
 ## 📫 Contact
-- [GitHub](https://https://github.com/jotaraz)
+- [GitHub](https://github.com/jotaraz)
 - [LinkedIn](https://www.linkedin.com/in/johannes-taraz-1953a12aa/)
 
 --- 
