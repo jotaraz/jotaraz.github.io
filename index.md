@@ -11,6 +11,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 ---
 
 ## At the moment I'm working on:
+- **Mech. Interp.:** A fun 20hr research project: [Are truthful models more dangerous?](https://docs.google.com/document/d/1DBBbs4liEFxZPRzP2Ks-cb4M1Yf8NxqAohEz-kb1E1A/edit?tab=t.0)
 - **Field building/research management:** I recently joined [Theomachia Labs](https://www.theomachialabs.com/about)!
 - **DeepONets:** turning my master thesis into a paper!
 - **Batteries:** I'm writing a paper based on my research at [DLR/HIU](https://hiu-batteries.de/forschung/forschungsgruppen/electrochemical-multiphysics-modeling/)  
@@ -18,7 +19,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 
 ---
 
-## 📫 Contact
+## 📫 Contact/Other pages
 - [GitHub](https://github.com/jotaraz)
 - [LinkedIn](https://www.linkedin.com/in/johannes-taraz-1953a12aa/)
 
@@ -26,6 +27,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 
 ## Short CV
 
+| 2026 | [ARENA](https://www.arena.education/) - Alignment Research Engineer Accelerator |
 | 2025 | [ML4Good](https://www.ml4good.org/thebootcamp) - AI Safety Bootcamp |
 | 2023-2025 | **M.Sc. Applied Mathematics** @ Delft University of Technology (cum laude - highest distinction in NL), [click for thesis](https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb) |
 | 2023-2025 | **M.Sc. Scientific Computing** @ Technische Universität Berlin |
