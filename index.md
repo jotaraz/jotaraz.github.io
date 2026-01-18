@@ -12,7 +12,6 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 
 ## At the moment I'm working on:
 - **Mech. Interp.:** A fun 20hr research project: [Are truthful models more dangerous?](https://docs.google.com/document/d/1DBBbs4liEFxZPRzP2Ks-cb4M1Yf8NxqAohEz-kb1E1A/edit?tab=t.0)
-- **Field building/research management:** I recently joined [Theomachia Labs](https://www.theomachialabs.com/about)!
 - **DeepONets:** turning my master thesis into a paper!
 - **Batteries:** I'm writing a paper based on my research at [DLR/HIU](https://hiu-batteries.de/forschung/forschungsgruppen/electrochemical-multiphysics-modeling/)  
 - **Debate between LLMs:** can you create a large enough incentive for an LLM to win a debate even if it conflicts with its other goals? [try it out! (with your OpenAI API key)](https://github.com/jotaraz/DebateWithMisalignedLLMs-FightingCollusion)
