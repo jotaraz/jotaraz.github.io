@@ -4,10 +4,7 @@ title: Hello there!
 ---
 
 I'm **Johannes Taraz**, welcome to my website!
-I recently graduated from my master degrees in Applied Mathematics and Scientific Computing at TU Delft and TU Berlin. 
-In my [master thesis](https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb) I worked on machine learning for numerical simulations. 
-Now, I'm exploring the broader field of AI, specifically safe and robust AI.
-
+I am working on different things related to AI safety.
 ---
 
 ## At the moment I'm working on:
@@ -32,7 +29,7 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 | 2026 | Facilitator of [BlueDot Impact](https://bluedot.org/) technical AI safety courses |
 | 2026 | [ARENA](https://www.arena.education/) - Alignment Research Engineer Accelerator |
 | 2025 | [ML4Good](https://www.ml4good.org/thebootcamp) - AI Safety Bootcamp |
-| 2023-2025 | **M.Sc. Applied Mathematics** @ Delft University of Technology (cum laude - highest distinction in NL), [click for thesis](https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb) |
+| 2023-2025 | **M.Sc. Applied Mathematics** @ Delft University of Technology (cum laude - highest distinction in NL), [click for thesis](https://repository.tudelft.nl/record/uuid:e8a0439c-ecfa-4adc-8ea7-2679847995eb) and [click for paper](https://arxiv.org/abs/2602.21910)  |
 | 2023-2025 | **M.Sc. Scientific Computing** @ Technische Universität Berlin |
 | 2024 | Student Research Assistant: Computational Chemistry @ German Aerospace Center (DLR) & Helmholtz Institute Ulm |
 | 2023-2024 | Student Research Assistant: Numerical Mathematics @ Weierstrass Institute for Applied Analysis and Stochastics |
