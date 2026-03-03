@@ -11,10 +11,10 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 ---
 
 ## At the moment I'm working on:
+- **Understanding Reasoning with Thought Anchors and Probes**: ARENA capstone project (LessWrong post in the making)
 - **Linear Probes** (Mech. Interp.): New datasets to detect deception with linear probes in Llama-3.1-8B (see [here](https://docs.google.com/document/d/1ycs3Ozrmm5fAJOp74KzZm7rUaCoekAQuQ-4_egoOujE/edit?usp=sharing) for the writeup)
 - **Activation Steering** (Mech. Interp.): A fun 20hr research project: [Are truthful models more dangerous?](https://docs.google.com/document/d/1DBBbs4liEFxZPRzP2Ks-cb4M1Yf8NxqAohEz-kb1E1A/edit?tab=t.0)
-- **DeepONets:** turning my master thesis into a paper!
-- **Batteries:** I'm writing a paper based on my research at [DLR/HIU](https://hiu-batteries.de/forschung/forschungsgruppen/electrochemical-multiphysics-modeling/)  
+- **DeepONets:** We've submitted a [paper](https://arxiv.org/abs/2602.21910) based on my master's thesis!
 - **Debate between LLMs:** can you create a large enough incentive for an LLM to win a debate even if it conflicts with its other goals? [try it out! (with your OpenAI API key)](https://github.com/jotaraz/DebateWithMisalignedLLMs-FightingCollusion)
 
 ---
@@ -27,6 +27,8 @@ Now, I'm exploring the broader field of AI, specifically safe and robust AI.
 
 ## Short CV
 
+| 2026- | AI safety PhD student with [Sahar Abdelnabi](https://s-abdelnabi.github.io) |
+| 2026 | Participant at [OOD Propensity generalization @ SPAR](https://sparai.org/projects/sp26/recAaHs254tezjreU?search=niels+warncke) |
 | 2026 | Facilitator of [BlueDot Impact](https://bluedot.org/) technical AI safety courses |
 | 2026 | [ARENA](https://www.arena.education/) - Alignment Research Engineer Accelerator |
 | 2025 | [ML4Good](https://www.ml4good.org/thebootcamp) - AI Safety Bootcamp |
