@@ -5,7 +5,7 @@ title: Johannes Taraz
 
 I'm an AI safety PhD Student with [Sahar Abdelnabi](https://s-abdelnabi.github.io) in Tübingen, Germany.
 At the moment I mainly work on deception elicitation and detection in LLMs, with some focus on multi-agent systems.
-
+**We just published [TRILEMMA](https://compass-group-tue.github.io/TRILEMMA/), an environment in which agents have to decide between honesty, confidentiality and task completion!**
 
 ## Past projects:
 
